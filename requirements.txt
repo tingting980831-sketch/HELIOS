@@ -1,0 +1,10 @@
+streamlit
+xarray
+numpy
+pandas
+matplotlib
+cartopy
+scipy
+requests
+cfgrib
+eccodes
