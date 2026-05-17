@@ -8,3 +8,4 @@ scipy
 requests
 cfgrib
 eccodes
+netcdf4
